@@ -184,7 +184,7 @@ This project was developed to offer a seamless experience for users interacting 
 - **Project Name**: Food-munch-WEB-Project
 - **Repository**: Private GitHub Repository
 - **License**: MIT License
-- **Contributors**: [Matada Sharon Pallavi](https://github.com/yourusername)
+- **Contributors**: [Matada Sharon Pallavi](https://github.com/matadasharonpallavi)
 - **Stars**: 0 stars
 - **Watchers**: 1 watcher
 - **Forks**: 0 forks
